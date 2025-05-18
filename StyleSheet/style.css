@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 62.5%;
+}
+.user-data {
+  width: 50rem;
+  padding: 1rem;
+  border: 0.2rem solid #b0db9c;
+  background-color: #ecfae5;
+  border-radius: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+h2 {
+  font-size: 1.8rem;
+  font-weight: 500;
+  color: #35422f;
+}
+
+.field {
+  font-size: 1.3rem;
+  font-weight: 400;
+  color: #6e8366;
+}
+
+.multiplication-box {
+  margin-top: 10rem;
+}
+
+input {
+  font-size: 2rem;
+  padding: 0.6rem 2rem;
+}
+
+button {
+  font-size: 2rem;
+  padding: 0.6rem 2rem;
+}
